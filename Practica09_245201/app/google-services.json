@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "719699432253",
+    "project_id": "practica09-245201",
+    "storage_bucket": "practica09-245201.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:719699432253:android:310421675e01e402f16b54",
+        "android_client_info": {
+          "package_name": "molina.esmeralda.practica09_245201"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC_SlxSfxpxLtYU6prPT8IY56CgH8LCok4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
